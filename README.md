@@ -1,6 +1,3 @@
-Certainly! Here's a completed version of your project's README file:
-
----
 
 # Earthquake Prediction Model
 
